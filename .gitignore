@@ -243,3 +243,8 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/src/AngularJS2Demo/Scripts/app/.baseDir.ts
+/src/AngularJS2Demo/Scripts/app/.baseDir.js
+/src/AngularJS2Demo/wwwroot/app/.baseDir.js
+
+/src/AngularJS2Demo/.tscache/base
